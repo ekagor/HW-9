@@ -1,0 +1,4 @@
+1;surname;Петров;name;Иван;patronymic;Федерович;email;13576@gmail.com;telephone;+7-905-356-25-45
+2;surname;Якишев;name;Андрей;patronymic;Викторович;email;5525@mail.ru;telephone;+7-905-252-22-11
+3;surname;Сидоров;name;Николай;patronymic;Владимирович;email;2255@mail.ru;telephone;+7-905-345-67-89
+4;surname;Питкин;name;Алексей;patronymic;Викторович;email;8763@mail.ru;telephone;+7-905-678-90-12
